@@ -1,13 +1,13 @@
 {
   "gameMissions": [
-    {
+    { //1
       "pointsToPass": [
         8,
         9,
         10
       ],
       "ammoCount": 1,
-      "playTime": 120,
+      "playTime": 60,
       "targets": [
         {
           "position": {
@@ -22,20 +22,20 @@
       "movingTargets":[],
       "appearingTargets":[]
     },
-    {
+    { //2
       "pointsToPass": [
         8,
         9,
         10
       ],
       "ammoCount": 1,
-      "playTime": 120,
+      "playTime": 60,
       "targets": [
         {
           "position": {
             "x": 0,
             "y": -3.84,
-            "z": 35
+            "z": 40
           },
           "timeActive": -1,
           "hits": 1
@@ -44,42 +44,20 @@
       "movingTargets":[],
       "appearingTargets":[]
     },
-    {
+    { //3
       "pointsToPass": [
         24,
         27,
         30
       ],
       "ammoCount": 3,
-      "playTime": 120,
+      "playTime": 60,
       "targets": [
         {
           "position": {
             "x": 0,
             "y": -3.84,
-            "z": 35
-          },
-          "timeActive": -1,
-          "hits": 3
-        }
-      ],
-      "movingTargets":[],
-      "appearingTargets":[]
-    },
-    {
-      "pointsToPass": [
-        24,
-        27,
-        30
-      ],
-      "ammoCount": 3,
-      "playTime": 120,
-      "targets": [
-        {
-          "position": {
-            "x": 0,
-            "y": -3.84,
-            "z": 45
+            "z": 40
           },
           "timeActive": -1,
           "hits": 3
@@ -102,6 +80,28 @@
             "x": 0,
             "y": -3.84,
             "z": 55
+          },
+          "timeActive": -1,
+          "hits": 3
+        }
+      ],
+      "movingTargets":[],
+      "appearingTargets":[]
+    },
+    {
+      "pointsToPass": [
+        24,
+        27,
+        30
+      ],
+      "ammoCount": 3,
+      "playTime": 120,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -3.84,
+            "z": 70
           },
           "timeActive": -1,
           "hits": 3
