@@ -6,7 +6,7 @@
         9,
         10
       ],
-      "ammoCount": 3,
+      "ammoCount": 1,
       "playTime": 120,
       "targets": [
         {
@@ -28,7 +28,7 @@
         9,
         10
       ],
-      "ammoCount": 3,
+      "ammoCount": 1,
       "playTime": 120,
       "targets": [
         {
@@ -58,6 +58,50 @@
             "x": 0,
             "y": -3.84,
             "z": 35
+          },
+          "timeActive": -1,
+          "hits": 3
+        }
+      ],
+      "movingTargets":[],
+      "appearingTargets":[]
+    },
+    {
+      "pointsToPass": [
+        24,
+        27,
+        30
+      ],
+      "ammoCount": 3,
+      "playTime": 120,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -3.84,
+            "z": 45
+          },
+          "timeActive": -1,
+          "hits": 3
+        }
+      ],
+      "movingTargets":[],
+      "appearingTargets":[]
+    },
+    {
+      "pointsToPass": [
+        24,
+        27,
+        30
+      ],
+      "ammoCount": 3,
+      "playTime": 120,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -3.84,
+            "z": 55
           },
           "timeActive": -1,
           "hits": 3
