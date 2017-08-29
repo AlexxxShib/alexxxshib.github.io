@@ -1,6 +1,6 @@
 {
   "gameMissions": [
-    { //1
+    {
       "pointsToPass": [
         8,
         9,
@@ -19,10 +19,10 @@
           "hits": 1
         }
       ],
-      "movingTargets":[],
-      "appearingTargets":[]
+      "movingTargets": [],
+      "appearingTargets": []
     },
-    { //2
+    {
       "pointsToPass": [
         8,
         9,
@@ -41,10 +41,10 @@
           "hits": 1
         }
       ],
-      "movingTargets":[],
-      "appearingTargets":[]
+      "movingTargets": [],
+      "appearingTargets": []
     },
-    { //3
+    {
       "pointsToPass": [
         24,
         27,
@@ -63,8 +63,8 @@
           "hits": 3
         }
       ],
-      "movingTargets":[],
-      "appearingTargets":[]
+      "movingTargets": [],
+      "appearingTargets": []
     },
     {
       "pointsToPass": [
@@ -85,8 +85,8 @@
           "hits": 3
         }
       ],
-      "movingTargets":[],
-      "appearingTargets":[]
+      "movingTargets": [],
+      "appearingTargets": []
     },
     {
       "pointsToPass": [
@@ -107,8 +107,8 @@
           "hits": 3
         }
       ],
-      "movingTargets":[],
-      "appearingTargets":[]
+      "movingTargets": [],
+      "appearingTargets": []
     }
   ]
 }
