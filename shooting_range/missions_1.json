@@ -73,7 +73,7 @@
         30
       ],
       "ammoCount": 3,
-      "playTime": 120,
+      "playTime": 60,
       "targets": [
         {
           "position": {
@@ -95,7 +95,7 @@
         30
       ],
       "ammoCount": 3,
-      "playTime": 120,
+      "playTime": 60,
       "targets": [
         {
           "position": {
@@ -105,6 +105,116 @@
           },
           "timeActive": -1,
           "hits": 3
+        }
+      ],
+      "movingTargets": [],
+      "appearingTargets": []
+    },
+    {
+      "pointsToPass": [
+        24,
+        27,
+        30
+      ],
+      "ammoCount": 3,
+      "playTime": 60,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -3.84,
+            "z": 85
+          },
+          "timeActive": -1,
+          "hits": 3
+        }
+      ],
+      "movingTargets": [],
+      "appearingTargets": []
+    },
+    {
+      "pointsToPass": [
+        24,
+        27,
+        30
+      ],
+      "ammoCount": 3,
+      "playTime": 60,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -3.84,
+            "z": 100
+          },
+          "timeActive": -1,
+          "hits": 3
+        }
+      ],
+      "movingTargets": [],
+      "appearingTargets": []
+    },
+    {
+      "pointsToPass": [
+        40,
+        45,
+        50
+      ],
+      "ammoCount": 5,
+      "playTime": 60,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -3.84,
+            "z": 100
+          },
+          "timeActive": -1,
+          "hits": 5
+        }
+      ],
+      "movingTargets": [],
+      "appearingTargets": []
+    },
+    {
+      "pointsToPass": [
+        40,
+        45,
+        50
+      ],
+      "ammoCount": 5,
+      "playTime": 60,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -3.84,
+            "z": 110
+          },
+          "timeActive": -1,
+          "hits": 5
+        }
+      ],
+      "movingTargets": [],
+      "appearingTargets": []
+    },
+    {
+      "pointsToPass": [
+        40,
+        45,
+        50
+      ],
+      "ammoCount": 5,
+      "playTime": 60,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -3.84,
+            "z": 125
+          },
+          "timeActive": -1,
+          "hits": 5
         }
       ],
       "movingTargets": [],
